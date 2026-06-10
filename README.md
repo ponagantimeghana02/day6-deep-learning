@@ -14,3 +14,5 @@ Task 5: Training Visualization
  Task 6: digit classifier
 
 Task 7: Model Management
+
+Task 8: Deep learning Report
